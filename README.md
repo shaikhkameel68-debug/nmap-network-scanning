@@ -278,7 +278,7 @@ assess. This report is based on a personal lab exercise.
 ## Screenshots
 
 ### 1. Nmap Version
-![Nmap Version](screenshots/01-nmap-version.png)
+![Nmap Version](nmap-version.png)
 
 ### 2. Host Discovery
 ![Host Discovery](screenshots/02-host-discovery.png)
