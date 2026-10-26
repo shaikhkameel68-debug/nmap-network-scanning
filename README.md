@@ -278,25 +278,25 @@ assess. This report is based on a personal lab exercise.
 ## Screenshots
 
 ### 1. Nmap Version
-![Nmap Version](nmap-version.png)
+![Nmap Version](screenshots/nmap%20version.png)
 
 ### 2. Host Discovery
-![Host Discovery](screenshots/02-host-discovery.png)
+![Host Discovery](screenshots/host%20discovery%20.png)
 
 ### 3. Port Scanning
-![Port Scanning](screenshots/03-port-scanning.png)
+![Port Scanning](screenshots/port-scanning.png)
 
 ### 4. Service and Version Detection
-![Service Detection](screenshots/04-service-detection.png)
+![Service Detection](screenshots/service-detection.png)
 
 ### 5. Operating System Detection
-![OS Detection](screenshots/05-os-detection.png)
+![OS Detection](screenshots/os-detection%20.png)
 
 ### 6. NSE Script Scanning
-![NSE Script Scanning](screenshots/06-nse-scanning.png)
+![NSE Script Scanning](screenshots/nse-scanning.png)
 
-### 7. Firewall and Filtering Detection
-![Firewall Detection](screenshots/07-firewall-detection.png)
+### 7. Firewall Detection
+![Firewall Detection](screenshots/firewall-detection.png)
 
 ### 8. Scan Report
-![Scan Report](screenshots/08-scan-report.png)
+![Scan Report](screenshots/scan-report.png)
