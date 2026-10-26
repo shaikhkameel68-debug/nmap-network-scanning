@@ -275,8 +275,6 @@ evidence.
 Run Nmap only against systems you own or have explicit permission to
 assess. This report is based on a personal lab exercise.
 
-## Screenshots
-
 ### 1. Nmap Version
 ![Nmap Version](screenshots/nmap%20version.png)
 
@@ -293,7 +291,7 @@ assess. This report is based on a personal lab exercise.
 ![OS Detection](screenshots/os-detection%20.png)
 
 ### 6. NSE Script Scanning
-![NSE Script Scanning](screenshots/nse-scanning.png)
+![NSE Scanning](screenshots/nse-scanning.png)
 
 ### 7. Firewall Detection
 ![Firewall Detection](screenshots/firewall-detection.png)
