@@ -274,3 +274,29 @@ evidence.
 
 Run Nmap only against systems you own or have explicit permission to
 assess. This report is based on a personal lab exercise.
+
+## Screenshots
+
+### 1. Nmap Version
+![Nmap Version](screenshots/01-nmap-version.png)
+
+### 2. Host Discovery
+![Host Discovery](screenshots/02-host-discovery.png)
+
+### 3. Port Scanning
+![Port Scanning](screenshots/03-port-scanning.png)
+
+### 4. Service and Version Detection
+![Service Detection](screenshots/04-service-detection.png)
+
+### 5. Operating System Detection
+![OS Detection](screenshots/05-os-detection.png)
+
+### 6. NSE Script Scanning
+![NSE Script Scanning](screenshots/06-nse-scanning.png)
+
+### 7. Firewall and Filtering Detection
+![Firewall Detection](screenshots/07-firewall-detection.png)
+
+### 8. Scan Report
+![Scan Report](screenshots/08-scan-report.png)
